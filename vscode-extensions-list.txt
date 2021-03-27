@@ -1,0 +1,10 @@
+alefragnani.rtf
+BriteSnow.vscode-toggle-quotes
+dbaeumer.vscode-eslint
+EditorConfig.EditorConfig
+esbenp.prettier-vscode
+felixfbecker.css-stacking-contexts
+mhutchie.git-graph
+ms-azuretools.vscode-docker
+ms-vscode-remote.remote-containers
+GitHub.github-vscode-theme
