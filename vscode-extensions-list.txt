@@ -11,3 +11,4 @@ GitHub.github-vscode-theme
 elmTooling.elm-ls-vscode
 GraphQL.vscode-graphql
 wix.vscode-import-cost
+nixon.env-cmd-file-syntax
